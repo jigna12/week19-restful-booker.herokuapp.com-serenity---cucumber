@@ -1,0 +1,4 @@
+com\heroukuapp\bookinginfo\BookingCRUDTestWithSteps.class
+com\heroukuapp\testbase\BookingTestBase.class
+com\heroukuapp\cucumber\steps\MyStepdefs.class
+com\heroukuapp\cucumber\CucumberRunner.class
